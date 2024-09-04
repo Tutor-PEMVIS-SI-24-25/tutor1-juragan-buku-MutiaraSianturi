@@ -10,6 +10,7 @@ public class Program {
     public static void main(String[] args) {
         String nama;
 
+        nama = input.nextLine();
         System.out.println(nama);
     }
 }
